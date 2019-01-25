@@ -1,0 +1,12 @@
+@charset "utf-8";
+/* CSS Document */
+
+#bar-logo{
+	float: right;
+}
+
+.logo-img{
+	height: 53px;
+	padding: none;
+	margin: none;
+}
